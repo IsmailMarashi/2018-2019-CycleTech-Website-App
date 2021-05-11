@@ -1,0 +1,1 @@
+Make sure to restart the database after setting loading otherwise issues may occur and refer to the docummentation on how to install the apps database and php files.
